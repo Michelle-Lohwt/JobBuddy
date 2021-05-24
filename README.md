@@ -1,2 +1,3 @@
 # CodenBot
-Discord Bot for the community
+> Discord Bot made for *Coden* by the **Coden Community**.
+
