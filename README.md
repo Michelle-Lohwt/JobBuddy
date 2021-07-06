@@ -40,3 +40,9 @@ LinkedIn: xxx
 - [ ] Discuss tech stack
 - [ ] Discuss how to host the bot
 - [ ] Design logo for Bot
+
+## Contributors 🌟
+
+<a href="https://github.com/CodenCommunity/JobBuddy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodenCommunity/JobBuddy" />
+</a>
