@@ -1,0 +1,21 @@
+{
+  "name": "jobbuddy",
+  "version": "1.0.0",
+  "description": "JobBuddy Bot for Coden",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodenCommunity/JobBuddy.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodenCommunity/JobBuddy/issues"
+  },
+  "homepage": "https://github.com/CodenCommunity/JobBuddy#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
