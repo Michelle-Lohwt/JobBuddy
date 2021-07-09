@@ -17,5 +17,13 @@
   "homepage": "https://github.com/CodenCommunity/JobBuddy#readme",
   "dependencies": {
     "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
