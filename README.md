@@ -12,11 +12,11 @@
   <img src="https://user-images.githubusercontent.com/67599130/125164248-d4ccdc80-e1c3-11eb-8649-2e1fe41cbd61.png"  width="40%" height="40%"/>
 </div>
 
-# **Ongoing Projects**
+## Contributing to this repository
+Click [here](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md) to see contribution guide of this project/
 
-# JobBuddy Bot
 ## **General Flow** (Updated: 25/5/2021)
-
+Click [here](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/flowchart) to see the flowchart of the bot
 
 |Order|Task|
 | ----------- | ----------- |
