@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/67599130/125164248-d4ccdc80-e1c3-11eb-8649-2e1fe41cbd61.png"  width="40%" height="40%"/>
+
 # **Ongoing Projects**
 
 # JobBuddy Bot
