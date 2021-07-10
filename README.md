@@ -1,4 +1,16 @@
-<img src="https://user-images.githubusercontent.com/67599130/125164248-d4ccdc80-e1c3-11eb-8649-2e1fe41cbd61.png"  width="40%" height="40%"/>
+<div align="center">
+ <h1> JobBuddy Discord Bot </h1>
+
+![Issues](https://img.shields.io/github/issues/CodenCommunity/JobBuddy)
+![Pull Requests](https://img.shields.io/github/issues-pr/CodenCommunity/JobBuddy)
+![Forks](https://img.shields.io/github/forks/CodenCommunity/JobBuddy)
+![Stars](https://img.shields.io/github/stars/CodenCommunity/JobBuddy)
+
+<h3>Join our community <a href="https://discord.gg/hFqy9XVmSA">Discord Channel</a> for discussion.</h3>
+
+
+  <img src="https://user-images.githubusercontent.com/67599130/125164248-d4ccdc80-e1c3-11eb-8649-2e1fe41cbd61.png"  width="40%" height="40%"/>
+</div>
 
 # **Ongoing Projects**
 
