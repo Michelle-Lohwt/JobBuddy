@@ -6,7 +6,7 @@ const client = new Discord.Client();
 const prefix = '?';
 
 //common emoji
-const briefcase = ('\:briefcase:')
+const briefcase = ('💼')
 
 //Check if the bot is running in console
 client.once('ready', () => {
@@ -50,11 +50,11 @@ client.on('message', message => {
     .setFooter('JobBuddy Bot by the community, for the community');
     message.channel.send({embed: botEmbed}).then(embedMessage => {
       //Add default reaction after embed is sent
-      embedMessage.react('💼');
+      embedMessage.react(briefcase);
   });
   }
 });
 
 //This line should always be the last
 //insert bot's token
-client.login('ODYzMDQ1NDMwMzQyMzIwMTU4.YOhLsQ.Xg58OnUMi0NJspCuLTKQhtVBDQE')
+client.login('insert_token_here');
