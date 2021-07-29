@@ -5,6 +5,9 @@ const client = new Discord.Client();
 //prefix for command in discord
 const prefix = '?';
 
+//common emoji
+const briefcase = ('\:briefcase:')
+
 //Check if the bot is running in console
 client.once('ready', () => {
   console.log('JobBuddy is working!');
@@ -25,11 +28,11 @@ client.on('message', message => {
   }
   else if (command === 'embed'){
     //Embed for job posting
-    //Website: https://discordjs.guide/popular-topics/embeds.html
+    //References: https://discordjs.guide/popular-topics/embeds.html
     const botEmbed = new Discord.MessageEmbed()
     .setColor('#0099ff')
-    .setTitle('JobBuddy helps with your job posting \:briefcase:')
-    .setDescription('Have a job opening? React with "\:briefcase:" under this message!')
+    .setTitle(`JobBuddy helps with your job posting ${briefcase}`)
+    .setDescription(`Have a job opening? React with "${briefcase}" under this message!`)
     .addFields(
       //Spacing
       { name: '\u200B', value: '\u200B' },
@@ -45,10 +48,13 @@ client.on('message', message => {
     )
     .setTimestamp()
     .setFooter('JobBuddy Bot by the community, for the community');
-    message.channel.send(botEmbed);
+    message.channel.send({embed: botEmbed}).then(embedMessage => {
+      //Add default reaction after embed is sent
+      embedMessage.react('💼');
+  });
   }
 });
 
 //This line should always be the last
 //insert bot's token
-client.login('insert_bot_token_here')
+client.login('ODYzMDQ1NDMwMzQyMzIwMTU4.YOhLsQ.Xg58OnUMi0NJspCuLTKQhtVBDQE')

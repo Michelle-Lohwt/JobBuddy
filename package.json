@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/CodenCommunity/JobBuddy#readme",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.12"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0"
