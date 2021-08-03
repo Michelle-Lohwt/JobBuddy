@@ -31,13 +31,13 @@ Once you are on GitHub and Discord, move on to step 1
 
 ```bash
 # clone the repo with the link coiped above
-$ git clone https://github.com/<your-username>/Coden.github.io 
+$ git clone https://github.com/<your-username>/JobBuddy
     
 # change *repo_name* to your forked repository name
 $ cd repo_name
 
 # add upstream to get updates from the original repository    
-$ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
+$ git remote add upstream https://github.com/CodenCommunity/JobBuddy
 ```
 
 ---
