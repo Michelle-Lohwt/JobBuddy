@@ -4,14 +4,14 @@ No worries if you are a first-timer contributing to this project or to open-sour
 Let's break it down into bite-size steps for you!
 
 ## Table of Contents
-* [Step 0: Are you a Codenian?](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-0-are-you-a-codenian)
-* [Step 1: Fork the project](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-1-fork-the-project)
-* [Step 2: Find an issue](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-2-find-an-issue)
-* [Step 3: Create a branch](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-3-create-a-branch)
-* [Step 4: Work on the issue assigned](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-4-work-on-the-issue-assigned)
-* [Step 5: Commit](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-5-commit)
-* [Step 6: Push it to your forked branch](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-6-push-it-to-your-forked-branch)
-* [Step 7: Make a Pull Request (PR)](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-7-make-a-pull-request-pr)
+* [Step 0: Are you a Codenian?](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-0-are-you-a-codenian)
+* [Step 1: Fork the project](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-1-fork-the-project)
+* [Step 2: Find an issue](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-2-find-an-issue)
+* [Step 3: Create a branch](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-3-create-a-branch)
+* [Step 4: Work on the issue assigned](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-4-work-on-the-issue-assigned)
+* [Step 5: Commit](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-5-commit)
+* [Step 6: Push it to your forked branch](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-6-push-it-to-your-forked-branch)
+* [Step 7: Make a Pull Request (PR)](https://github.com/CodenCommunity/JobBuddy/blob/main/.github/CONTRIBUTING.md#step-7-make-a-pull-request-pr)
 
 ### Step 0: Are you a Codenian?
 * Click [here](https://github.com/CodenCommunity/Support/issues/new?assignees=LeeRenJie&labels=Join+Coden+GitHub&template=join-coden-github.md&title=Join+Coden+on+GitHub) to be a member of Coden on GitHub to contribute to any in-house projects.
@@ -22,10 +22,10 @@ Once you are on GitHub and Discord, move on to step 1
 
 ### Step 1: Fork the project
 * Fork this Repository. This will create a Local Copy of this Repository on your Github Profile.
-![fork](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic1_fork.png)
+![fork](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic1_fork.png)
 
 * Go to `Code` -> `HTTPS` to copy the link: <br>
-![fork2](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic9_fork.png)
+![fork2](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic9_fork.png)
 
 * Add the forked repository to your computer directory:
 
@@ -48,7 +48,7 @@ $ git remote add upstream https://github.com/CodenCommunity/Coden.github.io
 * Issue assign is based on first come first serve basis.
 * Wait for an admin to assign the issue to you, then you can start working on it.  
 * Note : Every change in this project should/must have an associated issue.
-![issue](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic2_find_issue.png)
+![issue](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic2_find_issue.png)
   
 ---
   
@@ -61,7 +61,7 @@ $ git checkout -b branch_name
 ```
 
 * OR you can create the branch in Github as shown here:  
-![branch](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic3_branch.png)
+![branch](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic3_branch.png)
     
 ```bash
 # After you create the branch here, remember to update it in your computer directory
@@ -83,7 +83,7 @@ $ git add .
 $ git add <some files>
 ```
 - Using GitHub
-![upload_file](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic4_upload_file.png)
+![upload_file](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic4_upload_file.png)
 
 ---
 
@@ -95,7 +95,7 @@ $ git add <some files>
 $ git commit -m "message"  
 ```
 - Using GitHub
-![commit](https://github.com/CodenCommunity/Coden.github.io/blob/main/assets/images/pic5_commit.png)
+![commit](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic5_commit.png)
 ---
   
 ### Step 6: Push it to your forked branch
@@ -104,14 +104,14 @@ $ git commit -m "message"
 git push
 ```
 * You should see something like this in your Github after pushing:
-![push](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic6_push.png)
+![push](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic6_push.png)
 ---
   
 ### Step 7: Make a Pull Request (PR)
 * Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
-![pull_request](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic7_create_pull.png)
+![pull_request](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic7_create_pull.png)
 * AND compare the forked branch with the main branch
-![compare](https://github.com/Michelle-Lohwt/JobBuddy/blob/main/assets/images/pic8_compare_repo.png)
+![compare](https://github.com/CodenCommunity/JobBuddy/blob/main/assets/images/pic8_compare_repo.png)
 
 ---
   
